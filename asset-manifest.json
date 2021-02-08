@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cenacle/static/css/main.c3ecfa7c.chunk.css",
+    "main.js": "/cenacle/static/js/main.1a8583df.chunk.js",
+    "main.js.map": "/cenacle/static/js/main.1a8583df.chunk.js.map",
+    "runtime-main.js": "/cenacle/static/js/runtime-main.a466a51d.js",
+    "runtime-main.js.map": "/cenacle/static/js/runtime-main.a466a51d.js.map",
+    "static/js/2.677ea5ea.chunk.js": "/cenacle/static/js/2.677ea5ea.chunk.js",
+    "static/js/2.677ea5ea.chunk.js.map": "/cenacle/static/js/2.677ea5ea.chunk.js.map",
+    "index.html": "/cenacle/index.html",
+    "static/css/main.c3ecfa7c.chunk.css.map": "/cenacle/static/css/main.c3ecfa7c.chunk.css.map",
+    "static/js/2.677ea5ea.chunk.js.LICENSE.txt": "/cenacle/static/js/2.677ea5ea.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cenacle/static/media/background.62312db4.jpg",
+    "static/media/boy_milk.c9649e0b.jpg": "/cenacle/static/media/boy_milk.c9649e0b.jpg",
+    "static/media/cenacle_logo.e9b33a8d.png": "/cenacle/static/media/cenacle_logo.e9b33a8d.png",
+    "static/media/pnut.b5384ef1.jpg": "/cenacle/static/media/pnut.b5384ef1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a466a51d.js",
+    "static/js/2.677ea5ea.chunk.js",
+    "static/css/main.c3ecfa7c.chunk.css",
+    "static/js/main.1a8583df.chunk.js"
+  ]
+}
